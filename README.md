@@ -35,16 +35,16 @@ contains two classes, i.e., sensation or not, with label and tweets. We classifi
 | honestly all my friends do bnc i mean it and i am feeling \#terrible hahaha                                                              | none      |
 
 ### **Multi-sensation set** 
-includes six classes, i.e., sight, hearing, touch, smell, taste, and none, with label, scale, and tweets. The tweets are classified to the six classes as same as the rule of Binary-sensation class. Thus, if a tweet has an annotation value as greater than 1 of each sensation, then it will be determined to the sensation class. Note, some tweets can have multiple sensations, such as sight and hearing, hearing and touch, and so on; In this case, we duplicated the tweet and assigned to the corresponding classes.
+includes six classes, i.e., sight, hearing, touch, smell, taste, and none, with label and tweets. The tweets are classified to the six classes as same as the rule of Binary-sensation class. Thus, if a tweet has an annotation value as greater than 1 of each sensation, then it will be determined to the sensation class. Note, some tweets can have multiple sensations, such as sight and hearing, hearing and touch, and so on; In this case, we duplicated the tweet and assigned to the corresponding classes.
 
 **Summary table**
 
-| **Tweet**                                                                                              | **Label**   | **Scale** |
-|--------------------------------------------------------------------------------------------------------|-------------|-----------|
-| so if whichever butt wipe pulled the fire alarm in Davis because I was sound asleep                    | hearing     | 3         |
-| @li\*\* I had a nice Italian ice-cream whilst resting my tired paws. Honey flavoured, naturally!       | taste       | 3         |
-| Someone let snakes in my house, I bet it @Yt\*\* I kill that bugger when I get my hand on him \\\#rage | sight/touch | 3&2       |
-| Sometimes the worst place you can be is in your own head.                                              | none        | 0         |
+| **Tweet**                                                                                              | **Label**   |
+|--------------------------------------------------------------------------------------------------------|-------------|
+| so if whichever butt wipe pulled the fire alarm in Davis because I was sound asleep                    | hearing     |
+| @li\*\* I had a nice Italian ice-cream whilst resting my tired paws. Honey flavoured, naturally!       | taste       |
+| Someone let snakes in my house, I bet it @Yt\*\* I kill that bugger when I get my hand on him \\\#rage | sight/touch |
+| Sometimes the worst place you can be is in your own head.                                              | none        |
 
 ## **Statistics**
 
