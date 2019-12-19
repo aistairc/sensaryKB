@@ -86,4 +86,12 @@ To be appeared
 
 ## **Copyright**
 
-No restriction for non-commercial use.
+No restriction for non-commercial use. All property right is belong to AIST.
+
+## **Contact**
+Should you have any questions, comments, or suggestions, please contact to jun.lee@aist.go.jp
+
+Jun Lee
+https://www.airc.aist.go.jp/en/dprt/
+
+![logo](/img/logo.jpg)
