@@ -22,7 +22,7 @@ In order to extract human sensory experience as well as discover an evidence of 
 
 The dataset is annotated from emotional tweets as five types of sensations: sight, hearing, touch, smell, and taste, considering text, emoticon, and hashtag. Based on the annotation result, we separate the dataset as two categories: Binary sensation set and Multi-sensation set.
 
-###**Binary-sensation** **set** 
+### **Binary-sensation** **set** 
 contains two classes, i.e., sensation or not, with label and tweets. We classified tweets based on the annotation result by the rule that classify tweets which have greater than 1 (perhaps yes) of the agreement. Otherwise, we classify tweets to the none-sensation class
 
 **Summary table**
